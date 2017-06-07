@@ -12,7 +12,7 @@ package com.designpattern.a003SingletonPattern;
  */
 public class Singleton {
 	
-	private static Singleton instance;
+//	private static Singleton instance;
 	private Singleton(){};
 	
 	/**
